@@ -6,7 +6,8 @@ Sistem manajemen perpustakaan ini adalah sebuah aplikasi berbasis Java untuk men
 
 ### Clone Repository
 Untuk menjalankan file ini, dapat dilakukan clone repository ke lokal dengan menjalankan perintah berikut:
-git clone https://github.com/asifalestari/10121142_JavaDocs_CCDP-IF4.git
+
+https://github.com/asifalestari/10121142_JavaDocs_CCDP-IF4.git
 
 ## Penjelasan:
 - Pada file ini di tambahkan bagian yang menjelaskan bahwa dokumentasi Javadoc dapat diakses melalui **GitHub Pages**.
